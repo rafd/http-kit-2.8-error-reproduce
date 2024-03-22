@@ -1,4 +1,4 @@
-(ns app
+(ns app.main
   (:gen-class)
   (:require
     [org.httpkit.server :as s]
